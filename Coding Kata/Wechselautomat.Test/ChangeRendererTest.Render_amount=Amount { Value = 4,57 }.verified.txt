@@ -1,0 +1,6 @@
+﻿[
+  1 x 2 Cent Münze,
+  1 x 5 Cent Münze,
+  1 x 50 Cent Münze,
+  2 x 2 Euro Münzen
+]

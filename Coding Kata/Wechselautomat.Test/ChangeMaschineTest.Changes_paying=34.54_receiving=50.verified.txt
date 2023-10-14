@@ -1,0 +1,42 @@
+﻿[
+  {
+    Quantity: 1,
+    Cash: {
+      Amount: {
+        Value: 10.0
+      }
+    }
+  },
+  {
+    Quantity: 1,
+    Cash: {
+      Amount: {
+        Value: 5.0
+      }
+    }
+  },
+  {
+    Quantity: 2,
+    Cash: {
+      Amount: {
+        Value: 0.20
+      }
+    }
+  },
+  {
+    Quantity: 1,
+    Cash: {
+      Amount: {
+        Value: 0.05
+      }
+    }
+  },
+  {
+    Quantity: 1,
+    Cash: {
+      Amount: {
+        Value: 0.01
+      }
+    }
+  }
+]

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34112.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wechselautomat.Test", "Wechselautomat.Test\Wechselautomat.Test.csproj", "{7D0F1215-9D0F-4F81-91D4-A6E77F86CD73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wechselautomat.Core", "Wechselautomat.Core\Wechselautomat.Core.csproj", "{603B5635-3EF0-42E6-8434-D807DDE28901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D0F1215-9D0F-4F81-91D4-A6E77F86CD73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D0F1215-9D0F-4F81-91D4-A6E77F86CD73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D0F1215-9D0F-4F81-91D4-A6E77F86CD73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D0F1215-9D0F-4F81-91D4-A6E77F86CD73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{603B5635-3EF0-42E6-8434-D807DDE28901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603B5635-3EF0-42E6-8434-D807DDE28901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603B5635-3EF0-42E6-8434-D807DDE28901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603B5635-3EF0-42E6-8434-D807DDE28901}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ECBC0E0-F470-43A0-8A25-A9E330D2560D}
+	EndGlobalSection
+EndGlobal

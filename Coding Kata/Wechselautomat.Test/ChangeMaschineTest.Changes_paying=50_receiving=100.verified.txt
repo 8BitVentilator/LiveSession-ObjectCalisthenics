@@ -1,0 +1,10 @@
+﻿[
+  {
+    Quantity: 1,
+    Cash: {
+      Amount: {
+        Value: 50.0
+      }
+    }
+  }
+]
